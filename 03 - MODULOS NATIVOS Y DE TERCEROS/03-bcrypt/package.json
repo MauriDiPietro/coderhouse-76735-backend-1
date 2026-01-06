@@ -1,0 +1,16 @@
+{
+  "name": "03-bcrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  },
+  "type": "module"
+}
