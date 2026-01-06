@@ -1,0 +1,14 @@
+[
+  {
+    "first_name": "Juan",
+    "last_name": "Perez",
+    "email": "juan@mail.com",
+    "password": "$2b$10$5/TpYC/gVpDsmCNYwzFzkuGlhPLqyoL6teSHSjiLT1emq/VltEYqG"
+  },
+  {
+    "first_name": "Maria",
+    "last_name": "Lopez",
+    "email": "maria@mail.com",
+    "password": "$2b$10$eufUtxz9lTG/YHcy6dBLpu1fJqav0BLUoZfQy/tgQfzuJRpKCLjSG"
+  }
+]
