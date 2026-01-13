@@ -1,14 +1,1 @@
-[
-  {
-    "first_name": "Juan",
-    "last_name": "Perez",
-    "email": "juan@mail.com",
-    "password": "$2b$10$5/TpYC/gVpDsmCNYwzFzkuGlhPLqyoL6teSHSjiLT1emq/VltEYqG"
-  },
-  {
-    "first_name": "Maria",
-    "last_name": "Lopez",
-    "email": "maria@mail.com",
-    "password": "$2b$10$eufUtxz9lTG/YHcy6dBLpu1fJqav0BLUoZfQy/tgQfzuJRpKCLjSG"
-  }
-]
+[{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$5/TpYC/gVpDsmCNYwzFzkuGlhPLqyoL6teSHSjiLT1emq/VltEYqG"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$eufUtxz9lTG/YHcy6dBLpu1fJqav0BLUoZfQy/tgQfzuJRpKCLjSG"},{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$6.YM23XlqPBl9hAh43Zha.8ze5Qf356LyxR9lulGrSq61U2rPWBSK"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$gh8Zny3dEHK6TA5RKx3z9uVYtnrz6Wlq/8fbQNdoWQVMShx1T8XPq"},{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$W9DUTuJ6ewO0nOTxMiO47.gY93By80NZxAme6s/j4eAwdMOl1J7j6"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$N1cbb5W5uAZF0NJERojlJ.mbkRVyGASQmrFED26xyLG1TCHx0ieFW"},{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$wbCu.vMMwN9vswO2jwANZeh9u2L0ipi4u2eero9NRG8301Z9vYcc2"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$yluQDNH5El0AU1B/9Qjny.7Kfyq5gMC5efFHE9BJTRH2DSZj21f3S"},{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$rFIMHsKijzQQRpsRM8lfnewsU7QeNhT7UtcmccLVs8H73tvv6241K"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$yGY1RJCQYPJm5ym4ihs/M.03gM4kzs4eszjtsOVb2/Y0O7UT.oslO"},{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$GdLaOSJJfaPxx0AbhvSy2uRm3PpO4YcR0V5bwB0Zo6kPCCKbkSGNy"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$YOOqZSQy9ARJo8C44vcw9ufv/7aW5sYUNac1rvrb0ZVCVd4tCs7VW"},{"first_name":"Juan","last_name":"Perez","email":"juan@mail.com","password":"$2b$10$amsgROShxX2ygdkM6ShCzOmM844avOkBFIbHXwVMVd66LCKx1wvlu"},{"first_name":"Maria","last_name":"Lopez","email":"maria@mail.com","password":"$2b$10$VheTIZRrvzRG2Zlq3VRVb.4cF1u9swXHZG8sa6tUibF3FcIfMfar6"}]

@@ -63,4 +63,4 @@ await userManager.register(user1);
 await userManager.register(user2);
 
 // console.log(userManager.getUsers());
-console.log(await userManager.login('juan@mail.com', '12345'));
+console.log(await userManager.login('juan@mail.com', '1234'));
