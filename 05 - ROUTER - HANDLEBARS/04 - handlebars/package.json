@@ -1,0 +1,19 @@
+{
+  "name": "02-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "express-handlebars": "^8.0.4",
+    "uuid": "^13.0.0"
+  },
+  "type": "module"
+}
